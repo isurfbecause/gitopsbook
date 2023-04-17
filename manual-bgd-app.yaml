@@ -9,6 +9,6 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/gitops-cookbook/gitops-cookbook-sc.git
-    path: ch07/bgd
+    repoURL: https://github.com/isurfbecause/gitopsbook.git
+    path: /
     targetRevision: main
