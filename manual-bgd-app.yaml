@@ -10,4 +10,5 @@ spec:
   project: default
   source:
     repoURL: https://github.com/isurfbecause/gitopsbook.git
+    path: ./
     targetRevision: main
